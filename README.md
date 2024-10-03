@@ -9,7 +9,7 @@ The primary objective of the Programme is to provide a structured on-ramp for th
 # Requirements
 
 - Familiarize yourself with the general Terms and Conditions and Rules criteria.
-- It is necessary to complete KYC or KYB. **Important** - check the sanction lists in the requirements. Russia and some other countries are prohibited.
+- It is necessary to complete [KYC](https://in.sumsub.com/idensic/l/#/uni_md7UIt4gCcYxPiT7) or [KYB](https://in.sumsub.com/idensic/l/#/uni_4YMDDh3r2bJHxydS).
 - Early participants in 1KV will be given an advantage in the selection for the first cohort.
 - Launch a node and configure the validator.
 - Fill out the form very carefully. The email in the form must match the one used for KYC.
