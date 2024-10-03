@@ -21,7 +21,7 @@ The primary objective of the Programme is to provide a structured on-ramp for th
 - Validator rewards must be set as "staked" (increasing their own stake).
 - Nodes must connect to public telemetry [https://telemetry.polkadot.io/](https://telemetry.polkadot.io/).
 - No data should be hidden from telemetry. Specifically, nodes must at least exchange the following information: (CPU, RAM, number of cores, and whether the machine is virtual).
-- Servers must meet the minimum hardware requirements described [here](#).
+- Servers must meet the minimum hardware requirements described [here](https://wiki.polkadot.network/docs/maintain-guides-how-to-validate-polkadot#requirements).
 - Each node must run on a separate server. Exceptions may be made, but they are not recommended and must be justified.
 - Validators should never be slashed. The only exception is if slashing occurs due to a client error or a general network problem.
 - Nodes must be updated to the latest client version within **24 hours** of its release.
